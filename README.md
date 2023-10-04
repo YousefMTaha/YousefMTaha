@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Nest.JS**
 
-- 💬 Ask me about **Express.Js, GraphQl, RESTapi, Docker**
+- 💬 Ask me about **Express.Js, GraphQl, RESTful API, Docker**
 
 - 📫 How to reach me **yousefmahmoudmahmed@outlook.com**
 
