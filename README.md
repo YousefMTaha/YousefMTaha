@@ -4,13 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefmtaha&label=Profile%20views&color=0e75b6&style=flat" alt="yousefmtaha" /> </p>
 
-- 🔭 I’m currently working on **Health-care API**
 
-- 🌱 I’m currently learning **TypeScript, Nest.JS**
+- 🌱 I’m currently learning **Advanced DB  & Microserivce**
 
-- 💬 Ask me about **Express.Js, GraphQl, RESTful API, Docker**
-
-- 📫 How to reach me **yousefmahmoudmahmed@outlook.com**
+- 📫 How to reach me **yousef.work.taha@gmail.com**
 
 - 📄 Know about my experiences (CV) [https://drive.google.com/drive/folders/1BP4V-KU275U4BAtg1REQzCpgL7mmFBV7?usp=drive_link](https://drive.google.com/drive/folders/1BP4V-KU275U4BAtg1REQzCpgL7mmFBV7?usp=drive_link)
 
